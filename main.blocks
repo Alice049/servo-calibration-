@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="QXsE3@-k^km5zWOSR}!6" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="J3z=7eMMkYb`pYnNrH(+"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="servoservosetangle" id="AD*~+,x*qiM%i=ilofrB"><field name="servo">servos.P0</field><value name="degrees"><shadow type="protractorPicker" id="FOi19sY:mEB8_lu?kyPe"><field name="angle">0</field></shadow></value><next><block type="device_pause" id=",):^Z~n/6l#jzPHWyh3_"><value name="pause"><shadow type="timePicker" id="9/*eWvMNvj?b~~(GMx5A"><field name="ms">2000</field></shadow></value><next><block type="device_show_leds" id="x,E%M.=i@=vI?*x5{q=8"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # # # . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="servoservosetangle" id="u0Uv-+g$hcRjZK~`;JW;"><field name="servo">servos.P0</field><value name="degrees"><shadow type="protractorPicker" id="8ydRoC3sK;]et5Gv{kt|"><field name="angle">90</field></shadow></value><next><block type="device_pause" id="l0lzemrrJ_C#[^v(_evm"><value name="pause"><shadow type="timePicker" id="cXudd6|HJZR9RCM1Mr-r"><field name="ms">2000</field></shadow></value><next><block type="device_show_leds" id="5}`9h~Wvb7b(DL#~U!Ze"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="servoservosetangle" id="kY1zg0LflU]fPFccMZn+"><field name="servo">servos.P0</field><value name="degrees"><shadow type="protractorPicker" id="o-[V-a8OhF[6HLIM.Gbs"><field name="angle">180</field></shadow></value><next><block type="device_pause" id="uh4FxU)02rJPH*!#eUf/"><value name="pause"><shadow type="timePicker" id="--s^+NjHLnh02-G=NG%b"><field name="ms">2000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
